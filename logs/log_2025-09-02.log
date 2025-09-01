@@ -34,3 +34,73 @@
 2025-09-02 02:27:44,395 - INFO - Recived a query Naruto
 2025-09-02 02:27:45,436 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
 2025-09-02 02:27:45,449 - INFO - Recommendation generated sucesfulyy...
+2025-09-02 02:35:30,086 - INFO - Intializing Recommdation Pipeline
+2025-09-02 02:35:39,594 - INFO - Use pytorch device_name: cpu
+2025-09-02 02:35:39,594 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-02 02:35:44,377 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-09-02 02:35:45,461 - INFO - Pipleine intialized sucesfully...
+2025-09-02 02:35:56,956 - INFO - Recived a query Batman Begins
+2025-09-02 02:35:57,835 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-02 02:35:57,849 - INFO - Recommendation generated sucesfulyy...
+2025-09-02 02:38:14,643 - INFO - Intializing Recommdation Pipeline
+2025-09-02 02:38:23,869 - INFO - Use pytorch device_name: cpu
+2025-09-02 02:38:23,870 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-02 02:38:27,471 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-09-02 02:38:28,517 - INFO - Pipleine intialized sucesfully...
+2025-09-02 02:38:49,473 - INFO - Recived a query Batman Begins
+2025-09-02 02:38:50,262 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-02 02:38:50,270 - INFO - Recommendation generated sucesfulyy...
+2025-09-02 02:43:28,550 - INFO - Initializing Anime Recommendation Pipeline
+2025-09-02 02:43:37,662 - INFO - Use pytorch device_name: cpu
+2025-09-02 02:43:37,662 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-02 02:43:42,755 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-09-02 02:43:43,805 - INFO - Anime Pipeline initialized successfully...
+2025-09-02 02:43:57,320 - INFO - Received Anime query: Naruto
+2025-09-02 02:43:58,253 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-02 02:43:58,262 - INFO - Anime recommendation generated successfully...
+2025-09-02 02:44:04,297 - INFO - Initializing Movie Recommendation Pipeline
+2025-09-02 02:44:04,302 - INFO - Use pytorch device_name: cpu
+2025-09-02 02:44:04,302 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-02 02:44:08,008 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-09-02 02:44:08,764 - ERROR - Failed to initialize Movie pipeline name 'get_movie_prompt' is not defined
+2025-09-02 02:47:31,527 - INFO - Initializing Anime Recommendation Pipeline
+2025-09-02 02:47:40,369 - INFO - Use pytorch device_name: cpu
+2025-09-02 02:47:40,369 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-02 02:47:45,478 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-09-02 02:47:46,510 - INFO - Anime Pipeline initialized successfully...
+2025-09-02 02:47:52,635 - INFO - Initializing Movie Recommendation Pipeline
+2025-09-02 02:47:52,640 - INFO - Use pytorch device_name: cpu
+2025-09-02 02:47:52,640 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-02 02:47:56,455 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-09-02 02:47:57,181 - INFO - Movie Pipeline initialized successfully...
+2025-09-02 02:48:04,454 - INFO - Received Movie query: Batman Begins
+2025-09-02 02:48:05,324 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-02 02:48:05,332 - INFO - Movie recommendation generated successfully...
+2025-09-02 02:53:14,001 - INFO - Initializing Anime Recommendation Pipeline
+2025-09-02 02:53:22,486 - INFO - Use pytorch device_name: cpu
+2025-09-02 02:53:22,486 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-02 02:53:26,147 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-09-02 02:53:27,167 - INFO - Anime Pipeline initialized successfully...
+2025-09-02 02:53:36,273 - INFO - Received Anime query: Naruto
+2025-09-02 02:53:37,210 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-02 02:53:37,219 - INFO - Anime recommendation generated successfully...
+2025-09-02 02:54:16,117 - INFO - Received Anime query: Attack on Titan
+2025-09-02 02:54:16,780 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-02 02:54:16,781 - INFO - Anime recommendation generated successfully...
+2025-09-02 02:54:43,270 - INFO - Received Anime query: One Piece
+2025-09-02 02:54:45,481 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-02 02:54:45,482 - INFO - Anime recommendation generated successfully...
+2025-09-02 02:55:05,813 - INFO - Received Anime query: Steins;Gate:
+2025-09-02 02:55:06,707 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-02 02:55:06,708 - INFO - Anime recommendation generated successfully...
+2025-09-02 02:55:12,847 - INFO - Initializing Movie Recommendation Pipeline
+2025-09-02 02:55:12,853 - INFO - Use pytorch device_name: cpu
+2025-09-02 02:55:12,853 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-02 02:55:18,683 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-09-02 02:55:19,456 - INFO - Movie Pipeline initialized successfully...
+2025-09-02 02:55:37,952 - INFO - Received Movie query: The Shawshank Redemption
+2025-09-02 02:55:38,956 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-02 02:55:38,957 - INFO - Movie recommendation generated successfully...
+2025-09-02 02:55:51,053 - INFO - Received Movie query: The Godfather
+2025-09-02 02:55:52,131 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-02 02:55:52,132 - INFO - Movie recommendation generated successfully...
