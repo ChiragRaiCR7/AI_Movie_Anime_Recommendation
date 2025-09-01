@@ -1,5 +1,3 @@
-[![reddit.com/r/anime/comme...](https://images.openai.com/thumbnails/url/Cg9Jy3icu1mSUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw4sLPLzL40PzTU3LvVKiyrz9XB0ycz0yXNKtvApTTQtLg3MK_MKds0rS0xPKzfwTc13Sy93C8m2MIrwClQrBgA34CqQ)](https://www.reddit.com/r/anime/comments/vvbxjy/releasing_sprout_an_aipowered_anime/?utm_source=chatgpt.com)
-
 # AI Movie & Anime Recommendation System
 
 ## Overview
@@ -103,3 +101,4 @@ For more information and to access the source code, visit the [GitHub repository
 [1]: https://www.reddit.com/r/anime/comments/vvbxjy/releasing_sprout_an_aipowered_anime/?utm_source=chatgpt.com "reddit.com/r/anime/comme..."
 [2]: https://www.perfectcorp.com/consumer/blog/photo-editing/best-anime-app-iphone-android?utm_source=chatgpt.com "perfectcorp.com/consumer..."
 [3]: https://www.canva.com/anime-ai-generator/?utm_source=chatgpt.com "canva.com/anime-ai-gener..."
+
