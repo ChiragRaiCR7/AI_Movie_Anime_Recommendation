@@ -6,7 +6,9 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "chromadb>=1.0.20",
+    "huggingface-hub[hf-xet]>=0.34.4",
     "langchain>=0.3.27",
+    "langchain-chroma>=0.2.5",
     "langchain-community>=0.3.29",
     "langchain-groq>=0.3.7",
     "langchain-huggingface>=0.3.1",
